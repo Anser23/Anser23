@@ -50,7 +50,5 @@ An AI chatbot demo built with Gradio, focusing on safe, helpful conversation and
 ---
 
 ## 📎 Nice to have visuals
-If you want an animated touch on your README, create an `assets/` folder and add small GIFs (like `assets/hero.gif`) and use:
 
-```md
-![Hero animation](./assets/hero.gif)
+![Hero animation](./profile.png)
