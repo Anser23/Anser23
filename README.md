@@ -51,4 +51,4 @@ An AI chatbot demo built with Gradio, focusing on safe, helpful conversation and
 
 ## 📎 Nice to have visuals
 
-![Hero animation](./profile.png)
+![Hero animation](./profile.gif)
